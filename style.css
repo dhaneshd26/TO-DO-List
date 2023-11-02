@@ -98,3 +98,18 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+@media (max-width:380px){
+    button{
+        padding: 15px 30px;
+        font-size: 14px;
+        border-radius: 109px;
+    }
+    .todo{
+        width: 95%;
+        max-width: 530px;
+        margin: 100px auto ;
+        padding: 40px 30px 70px;
+        border-radius: 18px;
+    }
+   
+}

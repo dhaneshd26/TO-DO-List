@@ -1,6 +1,7 @@
 const inputBox = document.getElementById("input-box");
 const listContainer = document.getElementById("list-container");
 
+alert("Hey User! ");
 function addTask(){
     if(inputBox.value ==''){
         alert("Give Input");
